@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.0.0.1",
-      "download-url": "https://github.com/ljaac/test/blob/main/myTools/bin/myTools.exe",
+      "download-url": "https://github.com/ljaac/test/main/myTools/bin/myTools.exe",
       "changelog": "发布v1.0.0.1版本",
       "mandatory": true
     }

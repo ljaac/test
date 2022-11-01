@@ -4,6 +4,7 @@
       "open-url": "",
       "latest-version": "1.0.0.1",
       "download-url": "https://raw.githubusercontent.com/ljaac/test/main/myTools/bin/myTools.exe",
+      "tool-url": "https://raw.githubusercontent.com/ljaac/test/main/myTools/update/tool.exe",
       "changelog": "发布v1.0.0.1版本",
       "mandatory": true
     }

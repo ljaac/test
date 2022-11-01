@@ -2,10 +2,10 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.0.0.1",
+      "latest-version": "1.0.0.2",
       "download-url": "https://raw.githubusercontent.com/ljaac/test/main/myTools/bin/myTools.exe",
       "tool-url": "https://raw.githubusercontent.com/ljaac/test/main/myTools/update/updateTool.exe",
-      "changelog": "发布v1.0.0.1版本",
+      "changelog": "发布v1.0.0.2版本",
       "mandatory": true
     }
   }

@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "2.4.1",
-      "download-url": "https://raw.githubusercontent.com/ljaac/test/main/gateway-nbiot/bin/myTools.exe",
+      "download-url": "https://raw.githubusercontent.com/ljaac/test/main/gateway-nbiot/bin/gateway-nbiot.exe",
       "tool-url": "https://raw.githubusercontent.com/ljaac/test/main/gateway-nbiot/update/updateTool.exe",
       "changelog": "发布v2.4.1版本,增加在线更新功能",
       "mandatory": true
